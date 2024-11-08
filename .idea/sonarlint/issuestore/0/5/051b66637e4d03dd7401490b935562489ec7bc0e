@@ -1,0 +1,12 @@
+
+K
+java:S5411¯"(Use a primitive boolean expression here.(öòş‰ıÿÿÿÿ8¦™¡ÍÅ1
+y
+java:S1450"WRemove the "edenGrid" field and declare it as a local variable in the relevant methods.(à”‰Çúÿÿÿÿ8¡š¡ÍÅ1
+|
+java:S1450"ZRemove the "tenuredGrid" field and declare it as a local variable in the relevant methods.(”¾çùÿÿÿÿ8¡š¡ÍÅ1
+o
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ùì›Ğ8£š¡ÍÅ1
+M	java:S106—"+Replace this use of System.out by a logger.(–şÊ‰úÿÿÿÿ8¬š¡ÍÅ1
+ä
+java:S6541("ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 108 to 64, Complexity from 15 to 14, Nesting Level from 4 to 2, Number of Variables from 31 to 6.(ùì›Ğ8³š¡ÍÅ1

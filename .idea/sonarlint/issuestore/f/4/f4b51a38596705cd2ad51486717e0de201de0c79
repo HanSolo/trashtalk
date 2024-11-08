@@ -1,0 +1,12 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Ú¤“Œùÿÿÿÿ8®„†ÈÅ1
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8°„†ÈÅ1
+E	java:S108 ")Either remove or fill this block of code.(ä ¹€8°„†ÈÅ1
+L	java:S106'"+Replace this use of System.out by a logger.(•ø¹úÿÿÿÿ8°„†ÈÅ1
+G	java:S1065"+Replace this use of System.out by a logger.(şŠé¢8±„†ÈÅ1
+G	java:S1069"+Replace this use of System.out by a logger.(İ¯áÀ8±„†ÈÅ1
+L	java:S106B"+Replace this use of System.out by a logger.(´İÂøÿÿÿÿ8³„†ÈÅ1
+L	java:S106T"+Replace this use of System.out by a logger.(¦¢‰µúÿÿÿÿ8´„†ÈÅ1
+G	java:S106Z"+Replace this use of System.out by a logger.(ì¶…Û8–áÈÅ1

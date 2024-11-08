@@ -1,0 +1,40 @@
+
+ˆ
+java:S1192…"eDefine a constant instead of duplicating this literal "Out of memory (not able to allocate " 4 times.(š¢ƒıÿÿÿÿ8˜¥ŞÅÅ1
+X	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(Ö·í¹8å¥ŞÅÅ1
+p
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 354 to the 15 allowed.(Ö·í¹8ç¥ŞÅÅ1
+T
+java:S1172"7Remove this unused method parameter "amountToAllocate".(Ö·í¹8ç¥ŞÅÅ1
+{
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8è¥ŞÅÅ1
+E	java:S108)")Either remove or fill this block of code.(ä ¹€8è¥ŞÅÅ1
+G	java:S1061"+Replace this use of System.out by a logger.(À¨Š¢8è¥ŞÅÅ1
+G	java:S106="+Replace this use of System.out by a logger.(®ÏÀ®8é¥ŞÅÅ1
+G	java:S106J"+Replace this use of System.out by a logger.(•Õ·×8é¥ŞÅÅ1
+G	java:S106V"+Replace this use of System.out by a logger.(ê¨§š8ê¥ŞÅÅ1
+G	java:S106\"+Replace this use of System.out by a logger.(åØÍ8ê¥ŞÅÅ1
+L	java:S106_"+Replace this use of System.out by a logger.(’×Íşÿÿÿÿ8ê¥ŞÅÅ1
+L	java:S106b"+Replace this use of System.out by a logger.(â‚şØøÿÿÿÿ8ë¥ŞÅÅ1
+L	java:S106g"+Replace this use of System.out by a logger.(³Ö˜“şÿÿÿÿ8ë¥ŞÅÅ1
+L	java:S106q"+Replace this use of System.out by a logger.(¢†²´şÿÿÿÿ8ì¥ŞÅÅ1
+G	java:S106t"+Replace this use of System.out by a logger.(Œ½ı„8ì¥ŞÅÅ1
+L	java:S106}"+Replace this use of System.out by a logger.(ß¼¼Çüÿÿÿÿ8ì¥ŞÅÅ1
+L	java:S106"+Replace this use of System.out by a logger.(—¾±ãûÿÿÿÿ8ì¥ŞÅÅ1
+M	java:S106…"+Replace this use of System.out by a logger.(š¢ƒıÿÿÿÿ8í¥ŞÅÅ1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(§Ö˜¸8î¥ŞÅÅ1
+H	java:S106›"+Replace this use of System.out by a logger.(âé”8î¥ŞÅÅ1
+M	java:S106®"+Replace this use of System.out by a logger.(Œê›Ïşÿÿÿÿ8ğ¥ŞÅÅ1
+H	java:S106¼"+Replace this use of System.out by a logger.(Òé†¾8ğ¥ŞÅÅ1
+M	java:S106Ô"+Replace this use of System.out by a logger.(¦¢‰µúÿÿÿÿ8ò¥ŞÅÅ1
+M	java:S106ã"+Replace this use of System.out by a logger.(¢†²´şÿÿÿÿ8ò¥ŞÅÅ1
+H	java:S106æ"+Replace this use of System.out by a logger.(Œ½ı„8ò¥ŞÅÅ1
+M	java:S106ï"+Replace this use of System.out by a logger.(ß¼¼Çüÿÿÿÿ8ó¥ŞÅÅ1
+M	java:S106ñ"+Replace this use of System.out by a logger.(—¾±ãûÿÿÿÿ8ó¥ŞÅÅ1
+G	java:S106÷"+Replace this use of System.out by a logger.(ÑŒ¥K8ó¥ŞÅÅ1
+M	java:S106ú"+Replace this use of System.out by a logger.(ˆ¥£šüÿÿÿÿ8ô¥ŞÅÅ1
+H	java:S106"+Replace this use of System.out by a logger.(Ç´˜8õ¥ŞÅÅ1
+H	java:S106 "+Replace this use of System.out by a logger.(÷®ä8ö¥ŞÅÅ1
+M	java:S106§"+Replace this use of System.out by a logger.(÷ªõûÿÿÿÿ8ö¥ŞÅÅ1
+H	java:S106¶"+Replace this use of System.out by a logger.(ê¨§š8öŒêÅÅ1
+M	java:S106Ç"+Replace this use of System.out by a logger.(¦¢‰µúÿÿÿÿ8ÂÔñÅÅ1
