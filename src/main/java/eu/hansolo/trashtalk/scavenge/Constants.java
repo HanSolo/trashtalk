@@ -25,6 +25,6 @@ public class Constants {
     public static final Color     WINDOW_BACKGROUND            = Color.web("#162241");
     public static final Color     EDEN_BACKGROUND              = Color.web("#FADC5A");
     public static final Color     FROM_BACKGROUND              = Color.web("#808080");
-    public static final Color     TO_BACKGROUND                = Color.web("#EF8A34");
+    public static final Color     TO_BACKGROUND                = Color.web("#FADC5A");;//Color.web("#EF8A34");
     public static final Color     TENURED_BACKGROUND           = Color.web("#AAD8EF");
 }
